@@ -1,4 +1,9 @@
 # IoT Actor Example — Projeto de Sistemas Paralelos e Distribuídos
+## Projeto
+<img width="512" height="375" alt="image" src="https://github.com/user-attachments/assets/67b927bc-8ad7-4abb-b27c-2808a2cb5f72" />
+<img width="512" height="341" alt="image" src="https://github.com/user-attachments/assets/0166eb00-ad03-46ec-bf93-f95b4389d44c" />
+<img width="512" height="305" alt="image" src="https://github.com/user-attachments/assets/ef0e21bc-6696-447d-9704-157f52cc5dc5" />
+
 
 ## 1. Definição do Problema
 
